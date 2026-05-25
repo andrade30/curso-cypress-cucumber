@@ -1,7 +1,6 @@
 Feature: Last Searches
 
     @hackerstories
-    Feature Description
     Scenario: shows the last five searched terms as buttons
         Given I access the Hacker Stories web app
         When I search for these terms
